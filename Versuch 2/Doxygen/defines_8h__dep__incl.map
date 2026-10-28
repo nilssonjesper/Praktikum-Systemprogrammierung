@@ -1,0 +1,12 @@
+<map id="defines.h" name="defines.h">
+<area shape="rect" id="node1" title="Simple definitions and assembler&#45;macros, mostly 8/16&#45;Bit values." alt="" coords="331,5,413,32"/>
+<area shape="rect" id="node2" href="$lcd_8h.html" title="Library for LCD use." alt="" coords="176,80,229,107"/>
+<area shape="rect" id="node4" href="$os__core_8c.html" title=" " alt="" coords="5,155,88,181"/>
+<area shape="rect" id="node6" href="$util_8c.html" title=" " alt="" coords="241,155,295,181"/>
+<area shape="rect" id="node7" href="$os__scheduler_8h.html" title="Scheduling module for the OS." alt="" coords="313,80,431,107"/>
+<area shape="rect" id="node8" href="$os__scheduling__strategies_8h.html" title="Scheduling library for the OS." alt="" coords="370,155,569,181"/>
+<area shape="rect" id="node9" href="$os__scheduling__strategies_8c.html" title=" " alt="" coords="551,229,748,256"/>
+<area shape="rect" id="node10" href="$os__user__privileges_8h.html" title="User privileges specification used in part by the task manager." alt="" coords="592,155,747,181"/>
+<area shape="rect" id="node3" href="$lcd_8c.html" title="Library for LCD use." alt="" coords="113,155,165,181"/>
+<area shape="rect" id="node5" href="$os__scheduler_8c.html" title="Scheduling module for the OS." alt="" coords="275,229,392,256"/>
+</map>

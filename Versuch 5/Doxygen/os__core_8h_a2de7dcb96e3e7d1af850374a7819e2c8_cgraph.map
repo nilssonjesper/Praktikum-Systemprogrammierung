@@ -1,0 +1,9 @@
+<map id="os_errorPStr" name="os_errorPStr">
+<area shape="rect" id="node1" title="Shows error on display and terminates program." alt="" coords="5,81,107,108"/>
+<area shape="rect" id="node2" href="$lcd_8c.html#ad235a86241458b1e7b8771688bfdaf9a" title="Clear all data from display." alt="" coords="204,5,284,32"/>
+<area shape="rect" id="node5" href="$lcd_8c.html#a8a94938ef9d6e40c9c9b805d7f12701f" title="Write char PROGMEM* string as an error." alt="" coords="155,56,333,83"/>
+<area shape="rect" id="node6" href="$os__input_8c.html#a137e8a89b9524ec791fffccedb04fef0" title="Refreshes the button states." alt="" coords="389,132,487,159"/>
+<area shape="rect" id="node7" href="$os__input_8c.html#ad2eb8a84abf9fcfe88654e1118b351f5" title="Waits for all buttons to be released." alt="" coords="173,157,315,184"/>
+<area shape="rect" id="node3" href="$lcd_8c.html#acb116d89c358367b8fd1164120d320e3" title="Send command to LCD." alt="" coords="381,5,495,32"/>
+<area shape="rect" id="node4" href="$lcd_8c.html#a26a89cb41bb1496462fda420cbe79a07" title=" " alt="" coords="543,5,669,32"/>
+</map>

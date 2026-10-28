@@ -1,0 +1,4 @@
+<map id="draw_pattern" name="draw_pattern">
+<area shape="rect" id="node1" title="Draws pattern." alt="" coords="5,5,113,32"/>
+<area shape="rect" id="node2" href="$led__draw_8c.html#a3d94bf4c1ac52d40e77f9a9e8d163158" title="Distributes bits of given color&#39;s channels r, g and b on layers of framebuffer." alt="" coords="161,5,273,32"/>
+</map>

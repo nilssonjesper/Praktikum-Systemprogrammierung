@@ -1,0 +1,5 @@
+<map id="delayMs" name="delayMs">
+<area shape="rect" id="node1" title="Waits for some milliseconds." alt="" coords="5,5,83,32"/>
+<area shape="rect" id="node2" href="$util_8c.html#a0ed4ceac216999d297c20ed56cd2f2e0" title="Precise system time in ms." alt="" coords="131,5,309,32"/>
+<area shape="rect" id="node3" href="$util_8c.html#aa7568de3711b151bbc57bb3517a5cb0a" title=" " alt="" coords="357,5,548,32"/>
+</map>

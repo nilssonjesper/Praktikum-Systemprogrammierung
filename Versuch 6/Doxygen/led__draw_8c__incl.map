@@ -1,0 +1,11 @@
+<map id="led_draw.c" name="led_draw.c">
+<area shape="rect" id="node1" title="High level functions to draw premade things on the LED Panel." alt="" coords="213,5,303,32"/>
+<area shape="rect" id="node2" href="$led__draw_8h.html" title="High level functions to draw premade things on the LED Panel." alt="" coords="164,80,256,107"/>
+<area shape="rect" id="node5" href="$led__paneldriver_8h.html" title="Low level functions to draw premade things on the LED Panel." alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node7" href="$led__patterns_8h.html" title="CUSTOM CHAR PATTERNS." alt="" coords="359,80,474,107"/>
+<area shape="rect" id="node9" href="$util_8h.html" title="Little helpers that don&#39;t fit elsewhere." alt="" coords="280,80,335,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="151,155,234,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="259,155,329,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="37,155,108,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="353,155,480,181"/>
+</map>

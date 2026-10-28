@@ -1,0 +1,8 @@
+<map id="os_process.h" name="os_process.h">
+<area shape="rect" id="node1" title="Struct specifying a process." alt="" coords="147,5,253,32"/>
+<area shape="rect" id="node2" href="$os__scheduler_8h.html" title="Scheduling module for the OS." alt="" coords="141,80,259,107"/>
+<area shape="rect" id="node3" href="$os__scheduler_8c.html" title="Scheduling module for the OS." alt="" coords="5,229,123,256"/>
+<area shape="rect" id="node4" href="$os__scheduling__strategies_8h.html" title="Scheduling library for the OS." alt="" coords="101,155,299,181"/>
+<area shape="rect" id="node6" href="$os__user__privileges_8h.html" title="User privileges specification used in part by the task manager." alt="" coords="323,155,477,181"/>
+<area shape="rect" id="node5" href="$os__scheduling__strategies_8c.html" title=" " alt="" coords="147,229,344,256"/>
+</map>

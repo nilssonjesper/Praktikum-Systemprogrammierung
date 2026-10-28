@@ -1,0 +1,7 @@
+<map id="ISR" name="ISR">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,48,57"/>
+<area shape="rect" id="node2" href="$os__input_8c.html#a137e8a89b9524ec791fffccedb04fef0" title="Refreshes the button states." alt="" coords="307,5,405,32"/>
+<area shape="rect" id="node3" href="$os__taskman_8h.html#a95445fd0daa95f57aee301b431d6e18b" title="Main loop for the TaskManager." alt="" coords="101,81,233,108"/>
+<area shape="rect" id="node5" href="$os__input_8c.html#ad2eb8a84abf9fcfe88654e1118b351f5" title="Waits for all buttons to be released." alt="" coords="96,31,239,57"/>
+<area shape="rect" id="node4" href="$os__user__privileges_8h.html#addb3b2a8da2f06e6a1bc024a743dd1d4" title=" " alt="" coords="287,81,425,108"/>
+</map>

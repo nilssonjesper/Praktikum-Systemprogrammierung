@@ -1,0 +1,4 @@
+<map id="os_initHeaps" name="os_initHeaps">
+<area shape="rect" id="node1" title="Function that initialises all Heaps of the OS." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node2" href="$os__memheap__drivers_8c.html#a013d9591c2f7facee08a568f343a37c9" title="Private function that initialises a single heap." alt="" coords="160,5,259,32"/>
+</map>

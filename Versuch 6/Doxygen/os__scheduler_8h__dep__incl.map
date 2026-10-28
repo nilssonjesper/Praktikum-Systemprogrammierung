@@ -1,0 +1,10 @@
+<map id="os_scheduler.h" name="os_scheduler.h">
+<area shape="rect" id="node1" title="Scheduling module for the OS." alt="" coords="433,5,552,32"/>
+<area shape="rect" id="node2" href="$os__memory_8h.html" title="Library for OS memory management." alt="" coords="321,80,430,107"/>
+<area shape="rect" id="node5" href="$os__scheduler_8c.html" title="Scheduling module for the OS." alt="" coords="523,155,641,181"/>
+<area shape="rect" id="node6" href="$os__user__privileges_8h.html" title="User privileges specification used in part by the task manager." alt="" coords="345,155,499,181"/>
+<area shape="rect" id="node7" href="$os__scheduling__strategies_8h.html" title="Scheduling library for the OS." alt="" coords="555,80,753,107"/>
+<area shape="rect" id="node3" href="$os__memory_8c.html" title=" " alt="" coords="212,155,320,181"/>
+<area shape="rect" id="node4" href="$os__memory__strategies_8c.html" title=" " alt="" coords="5,155,188,181"/>
+<area shape="rect" id="node8" href="$os__scheduling__strategies_8c.html" title=" " alt="" coords="665,155,862,181"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="atmega644constants.h" name="atmega644constants.h">
+<area shape="rect" id="node1" title="Constants for ATMega644 and EVA board. Defines several useful constants for the ATMega644." alt="" coords="796,5,967,32"/>
+<area shape="rect" id="node2" href="$defines_8h.html" title="Simple definitions and assembler&#45;macros, mostly 8/16&#45;Bit values." alt="" coords="702,80,783,107"/>
+<area shape="rect" id="node7" href="$util_8c.html" title=" " alt="" coords="826,229,881,256"/>
+<area shape="rect" id="node3" href="$lcd_8h.html" title="Library for LCD use." alt="" coords="403,155,456,181"/>
+<area shape="rect" id="node5" href="$os__core_8c.html" title=" " alt="" coords="21,304,104,331"/>
+<area shape="rect" id="node8" href="$os__mem__drivers_8c.html" title=" " alt="" coords="517,229,659,256"/>
+<area shape="rect" id="node9" href="$os__mem__drivers_8h.html" title="Drivers for OS memory management." alt="" coords="495,155,638,181"/>
+<area shape="rect" id="node11" href="$os__memheap__drivers_8c.html" title=" " alt="" coords="19,379,192,405"/>
+<area shape="rect" id="node15" href="$os__user__privileges_8h.html" title="User privileges specification used in part by the task manager." alt="" coords="697,379,852,405"/>
+<area shape="rect" id="node17" href="$os__scheduler_8h.html" title="Scheduling module for the OS." alt="" coords="683,229,802,256"/>
+<area shape="rect" id="node18" href="$os__scheduling__strategies_8h.html" title="Scheduling library for the OS." alt="" coords="734,304,933,331"/>
+<area shape="rect" id="node19" href="$os__scheduling__strategies_8c.html" title=" " alt="" coords="924,379,1121,405"/>
+<area shape="rect" id="node4" href="$lcd_8c.html" title="Library for LCD use." alt="" coords="141,229,193,256"/>
+<area shape="rect" id="node6" href="$os__scheduler_8c.html" title="Scheduling module for the OS." alt="" coords="556,379,673,405"/>
+<area shape="rect" id="node10" href="$os__memheap__drivers_8h.html" title="Drivers for OS heap management." alt="" coords="217,229,391,256"/>
+<area shape="rect" id="node12" href="$os__memory_8h.html" title="Library for OS memory management." alt="" coords="437,304,547,331"/>
+<area shape="rect" id="node16" href="$os__memory__strategies_8h.html" title="Memory allocation library for the OS." alt="" coords="179,304,362,331"/>
+<area shape="rect" id="node13" href="$os__memory_8c.html" title=" " alt="" coords="217,379,325,405"/>
+<area shape="rect" id="node14" href="$os__memory__strategies_8c.html" title=" " alt="" coords="349,379,531,405"/>
+</map>

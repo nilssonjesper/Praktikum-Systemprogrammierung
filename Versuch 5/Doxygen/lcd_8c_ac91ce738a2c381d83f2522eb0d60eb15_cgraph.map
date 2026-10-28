@@ -1,0 +1,8 @@
+<map id="lcd_drawBar" name="lcd_drawBar">
+<area shape="rect" id="node1" title="Write a draw bar." alt="" coords="5,31,108,57"/>
+<area shape="rect" id="node2" href="$lcd_8c.html#ad235a86241458b1e7b8771688bfdaf9a" title="Clear all data from display." alt="" coords="190,5,270,32"/>
+<area shape="rect" id="node5" href="$lcd_8c.html#a12c915502d2f5eb5bca74e503ad88669" title="Write char PROGMEM* string." alt="" coords="156,56,304,83"/>
+<area shape="rect" id="node3" href="$lcd_8c.html#acb116d89c358367b8fd1164120d320e3" title="Send command to LCD." alt="" coords="352,5,465,32"/>
+<area shape="rect" id="node4" href="$lcd_8c.html#a26a89cb41bb1496462fda420cbe79a07" title=" " alt="" coords="513,5,640,32"/>
+<area shape="rect" id="node6" href="$lcd_8c.html#a93cd5600fa3b27381a4cf57d21f27ebf" title="Write one character." alt="" coords="353,56,464,83"/>
+</map>

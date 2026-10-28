@@ -1,0 +1,7 @@
+<map id="lcd_erase" name="lcd_erase">
+<area shape="rect" id="node1" title="Erases one line." alt="" coords="5,31,89,57"/>
+<area shape="rect" id="node2" href="$lcd_8c.html#a338e21c2a6ba1044313b26bf868e13b2" title="Next output will be written at (row, column)" alt="" coords="154,5,231,32"/>
+<area shape="rect" id="node5" href="$lcd_8c.html#a93cd5600fa3b27381a4cf57d21f27ebf" title="Write one character." alt="" coords="137,56,248,83"/>
+<area shape="rect" id="node3" href="$lcd_8c.html#acb116d89c358367b8fd1164120d320e3" title="Send command to LCD." alt="" coords="296,5,409,32"/>
+<area shape="rect" id="node4" href="$lcd_8c.html#a26a89cb41bb1496462fda420cbe79a07" title=" " alt="" coords="457,5,584,32"/>
+</map>

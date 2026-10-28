@@ -1,0 +1,8 @@
+<map id="util.h" name="util.h">
+<area shape="rect" id="node1" title="Little helpers that don&#39;t fit elsewhere." alt="" coords="157,5,212,32"/>
+<area shape="rect" id="node2" href="$lcd_8c.html" title="Library for LCD use." alt="" coords="5,155,57,181"/>
+<area shape="rect" id="node3" href="$lcd_8h.html" title="Library for LCD use." alt="" coords="158,80,211,107"/>
+<area shape="rect" id="node4" href="$os__core_8c.html" title=" " alt="" coords="82,155,165,181"/>
+<area shape="rect" id="node5" href="$os__scheduler_8c.html" title="Scheduling module for the OS." alt="" coords="189,155,306,181"/>
+<area shape="rect" id="node6" href="$util_8c.html" title=" " alt="" coords="331,155,385,181"/>
+</map>

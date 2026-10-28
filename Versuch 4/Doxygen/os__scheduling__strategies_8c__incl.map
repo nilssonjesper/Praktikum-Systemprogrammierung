@@ -1,0 +1,12 @@
+<map id="os_scheduling_strategies.c" name="os_scheduling_strategies.c">
+<area shape="rect" id="node1" title=" " alt="" coords="211,5,408,32"/>
+<area shape="rect" id="node2" href="$os__scheduling__strategies_8h.html" title="Scheduling library for the OS." alt="" coords="142,80,341,107"/>
+<area shape="rect" id="node3" href="$defines_8h.html" title="Simple definitions and assembler&#45;macros, mostly 8/16&#45;Bit values." alt="" coords="65,229,146,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="296,304,379,331"/>
+<area shape="rect" id="node10" title=" " alt="" coords="415,80,486,107"/>
+<area shape="rect" id="node6" href="$os__scheduler_8h.html" title="Scheduling module for the OS." alt="" coords="189,155,307,181"/>
+<area shape="rect" id="node4" href="$atmega644constants_8h.html" title="Constants for ATMega644 and EVA board. Defines several useful constants for the ATMega644." alt="" coords="5,304,176,331"/>
+<area shape="rect" id="node5" title=" " alt="" coords="55,379,126,405"/>
+<area shape="rect" id="node7" href="$os__process_8h.html" title="Struct specifying a process." alt="" coords="183,229,289,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="201,304,271,331"/>
+</map>

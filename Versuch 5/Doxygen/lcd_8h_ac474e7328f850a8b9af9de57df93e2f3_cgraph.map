@@ -1,0 +1,5 @@
+<map id="lcd_writeHexByte" name="lcd_writeHexByte">
+<area shape="rect" id="node1" title="Write one hexadecimal byte." alt="" coords="5,5,143,32"/>
+<area shape="rect" id="node2" href="$lcd_8c.html#a01b53b89b0c268d2324d86f3fe33405d" title="Write a half&#45;byte (a nibble)" alt="" coords="191,5,340,32"/>
+<area shape="rect" id="node3" href="$lcd_8c.html#a93cd5600fa3b27381a4cf57d21f27ebf" title="Write one character." alt="" coords="388,5,499,32"/>
+</map>

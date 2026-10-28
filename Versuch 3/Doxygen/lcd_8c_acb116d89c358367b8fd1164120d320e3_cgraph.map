@@ -1,0 +1,4 @@
+<map id="lcd_command" name="lcd_command">
+<area shape="rect" id="node1" title="Send command to LCD." alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node2" href="$lcd_8c.html#a26a89cb41bb1496462fda420cbe79a07" title=" " alt="" coords="167,5,293,32"/>
+</map>

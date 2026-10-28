@@ -1,0 +1,4 @@
+<map id="js_getDirection" name="js_getDirection">
+<area shape="rect" id="node1" title="Calculates a Direction from current joystick position." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node2" href="$joystick_8c.html#a66d68ddb7e8812a15c3a347802a7bc72" title="Read joystick displacement." alt="" coords="173,5,289,32"/>
+</map>

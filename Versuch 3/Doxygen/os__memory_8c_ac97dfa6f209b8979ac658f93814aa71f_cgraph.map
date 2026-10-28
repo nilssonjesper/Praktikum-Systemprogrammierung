@@ -1,0 +1,13 @@
+<map id="os_freeProcessMemory" name="os_freeProcessMemory">
+<area shape="rect" id="node1" title="Function that realises the garbage collection." alt="" coords="5,99,180,126"/>
+<area shape="rect" id="node2" href="$os__scheduler_8c.html#a9d27b2dbf45ce6648916ed5ceb0a38df" title="Enters a critical code section." alt="" coords="458,37,630,63"/>
+<area shape="rect" id="node3" href="$os__memory_8c.html#ae30934b438eca830815f445a1144a8c2" title="Frees the chunk iff it is owned by the given owner." alt="" coords="228,125,407,151"/>
+<area shape="rect" id="node5" href="$os__memory_8c.html#a9af7a326526068e8016d6e8ad95b4a59" title="Function used to get the value of a single map entry, this is made public so the allocation strategie..." alt="" coords="681,87,808,114"/>
+<area shape="rect" id="node8" href="$os__scheduler_8c.html#a21546fdd22e5e6818e50856a119d98e0" title="Leaves a critical code section." alt="" coords="457,239,631,266"/>
+<area shape="rect" id="node4" href="$os__memory_8c.html#aaa69e86c67d117013f2ff4680c476170" title="Get the address of the first byte of chunk." alt="" coords="455,138,633,165"/>
+<area shape="rect" id="node9" href="$os__memory_8c.html#a9a3813198496fd4b10db2a6eedd27b99" title="This function is used to set a heap map entry on a specific heap." alt="" coords="492,189,596,215"/>
+<area shape="rect" id="node6" href="$os__memory_8c.html#a09b73f1d91f025749a3e8840de58bd06" title="Reads the value of the higher nibble of the given address." alt="" coords="856,62,971,89"/>
+<area shape="rect" id="node7" href="$os__memory_8c.html#a2aab9a8f722e2c71f427ebc9631120c6" title="Reads the value of the lower nibble of the given address." alt="" coords="858,113,969,139"/>
+<area shape="rect" id="node10" href="$os__memory_8c.html#a68640fd1f0d9f708b30091fa70ff9ee6" title="Writes a value from 0x0 to 0xF to the higher nibble of the given address." alt="" coords="687,214,802,241"/>
+<area shape="rect" id="node11" href="$os__memory_8c.html#a706bb11a3d86c04a12526367ed7c3313" title="Writes a value from 0x0 to 0xF to the lower nibble of the given address." alt="" coords="689,163,800,190"/>
+</map>

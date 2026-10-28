@@ -1,0 +1,16 @@
+<map id="os_user_privileges.h" name="os_user_privileges.h">
+<area shape="rect" id="node1" title="User privileges specification used in part by the task manager." alt="" coords="215,5,370,32"/>
+<area shape="rect" id="node2" href="$defines_8h.html" title="Simple definitions and assembler&#45;macros, mostly 8/16&#45;Bit values." alt="" coords="264,304,345,331"/>
+<area shape="rect" id="node5" href="$os__scheduler_8h.html" title="Scheduling module for the OS." alt="" coords="136,155,255,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,304,76,331"/>
+<area shape="rect" id="node9" title=" " alt="" coords="331,80,457,107"/>
+<area shape="rect" id="node10" href="$os__memory_8h.html" title="Library for OS memory management." alt="" coords="482,80,591,107"/>
+<area shape="rect" id="node3" href="$atmega644constants_8h.html" title="Constants for ATMega644 and EVA board. Defines several useful constants for the ATMega644." alt="" coords="219,379,390,405"/>
+<area shape="rect" id="node4" title=" " alt="" coords="269,453,340,480"/>
+<area shape="rect" id="node6" href="$os__process_8h.html" title="Struct specifying a process." alt="" coords="47,229,154,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="138,304,221,331"/>
+<area shape="rect" id="node11" href="$os__mem__drivers_8h.html" title="Drivers for OS memory management." alt="" coords="480,229,623,256"/>
+<area shape="rect" id="node13" href="$os__memheap__drivers_8h.html" title="Drivers for OS heap management." alt="" coords="335,155,509,181"/>
+<area shape="rect" id="node12" title=" " alt="" coords="508,304,595,331"/>
+<area shape="rect" id="node14" title=" " alt="" coords="381,229,455,256"/>
+</map>

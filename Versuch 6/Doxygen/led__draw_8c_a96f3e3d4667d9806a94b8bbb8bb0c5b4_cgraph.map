@@ -1,0 +1,4 @@
+<map id="draw_decimal" name="draw_decimal">
+<area shape="rect" id="node1" title="Draws Decimal (0..9) on panel." alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node2" href="$led__draw_8c.html#abaf1a469d4cc7197db44f3ec1b5627e5" title="Draws a character on the panel." alt="" coords="167,5,263,32"/>
+</map>

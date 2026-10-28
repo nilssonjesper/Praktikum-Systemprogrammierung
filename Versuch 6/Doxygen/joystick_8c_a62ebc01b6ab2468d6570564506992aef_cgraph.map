@@ -1,0 +1,4 @@
+<map id="js_getHorizontal" name="js_getHorizontal">
+<area shape="rect" id="node1" title="Read horizontal joystick displacement." alt="" coords="5,5,133,32"/>
+<area shape="rect" id="node2" href="$joystick_8c.html#a66d68ddb7e8812a15c3a347802a7bc72" title="Read joystick displacement." alt="" coords="181,5,297,32"/>
+</map>

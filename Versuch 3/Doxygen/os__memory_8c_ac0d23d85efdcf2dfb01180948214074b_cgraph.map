@@ -1,0 +1,7 @@
+<map id="os_getChunkSize" name="os_getChunkSize">
+<area shape="rect" id="node1" title="Get the size of a chunk on a given address." alt="" coords="5,31,139,57"/>
+<area shape="rect" id="node2" href="$os__memory_8c.html#aaa69e86c67d117013f2ff4680c476170" title="Get the address of the first byte of chunk." alt="" coords="187,5,365,32"/>
+<area shape="rect" id="node3" href="$os__memory_8c.html#a9af7a326526068e8016d6e8ad95b4a59" title="Function used to get the value of a single map entry, this is made public so the allocation strategie..." alt="" coords="413,31,540,57"/>
+<area shape="rect" id="node4" href="$os__memory_8c.html#a09b73f1d91f025749a3e8840de58bd06" title="Reads the value of the higher nibble of the given address." alt="" coords="588,5,703,32"/>
+<area shape="rect" id="node5" href="$os__memory_8c.html#a2aab9a8f722e2c71f427ebc9631120c6" title="Reads the value of the lower nibble of the given address." alt="" coords="590,56,701,83"/>
+</map>

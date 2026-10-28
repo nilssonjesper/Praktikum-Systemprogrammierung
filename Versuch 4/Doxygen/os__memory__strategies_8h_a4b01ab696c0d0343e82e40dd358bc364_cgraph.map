@@ -1,0 +1,6 @@
+<map id="os_Memory_FirstFit" name="os_Memory_FirstFit">
+<area shape="rect" id="node1" title="First&#45;fit strategy." alt="" coords="5,31,155,57"/>
+<area shape="rect" id="node2" href="$os__memory_8c.html#a9af7a326526068e8016d6e8ad95b4a59" title="Function used to get the value of a single map entry, this is made public so the allocation strategie..." alt="" coords="203,31,329,57"/>
+<area shape="rect" id="node3" href="$os__memory_8c.html#a09b73f1d91f025749a3e8840de58bd06" title="Reads the value of the higher nibble of the given address." alt="" coords="377,5,492,32"/>
+<area shape="rect" id="node4" href="$os__memory_8c.html#a2aab9a8f722e2c71f427ebc9631120c6" title="Reads the value of the lower nibble of the given address." alt="" coords="379,56,490,83"/>
+</map>

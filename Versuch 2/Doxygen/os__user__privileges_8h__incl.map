@@ -1,0 +1,11 @@
+<map id="os_user_privileges.h" name="os_user_privileges.h">
+<area shape="rect" id="node1" title="User privileges specification used in part by the task manager." alt="" coords="208,5,363,32"/>
+<area shape="rect" id="node2" href="$defines_8h.html" title="Simple definitions and assembler&#45;macros, mostly 8/16&#45;Bit values." alt="" coords="50,155,131,181"/>
+<area shape="rect" id="node5" href="$os__scheduler_8h.html" title="Scheduling module for the OS." alt="" coords="178,80,297,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="313,229,383,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="389,80,515,107"/>
+<area shape="rect" id="node3" href="$atmega644constants_8h.html" title="Constants for ATMega644 and EVA board. Defines several useful constants for the ATMega644." alt="" coords="5,229,176,256"/>
+<area shape="rect" id="node4" title=" " alt="" coords="55,304,126,331"/>
+<area shape="rect" id="node6" href="$os__process_8h.html" title="Struct specifying a process." alt="" coords="207,155,313,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="204,229,287,256"/>
+</map>
